@@ -1,4 +1,9 @@
 *.log
 *.pot
 *.pyc
+*.swp
+*.swo
 local_settings.py
+virtual
+virtual/*
+
